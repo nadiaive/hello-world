@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi world!
+
+I am Nadia, I am trying to learn Git, specifically how I can resolve merge conflicts i VSC. 
